@@ -1,0 +1,67 @@
+[
+    
+    {
+        "question": "Father of Computer Science?",
+        "answer": [
+            {"text": "Alan Turing", "correct": true},
+            {"text": "Bill Gates", "correct": false},
+            {"text": "Steve Jobs", "correct": false},
+            {"text": "Mark Zuckerberg", "correct": false}
+        ]
+    },
+    {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "answer": [
+            {"text": "China", "correct": false},
+            {"text": "Japan", "correct": true},
+            {"text": "Norway", "correct": false},
+            {"text": "Vietnam", "correct": false}
+        ]
+    },
+    {
+        "question": "Which is the largest desert in the world?",
+        "answer": [
+            {"text": "Kalahari", "correct": false},
+            {"text": "Gobi", "correct": false},
+            {"text": "Sahara", "correct": false},
+            {"text": "Antarctica", "correct": true}
+        ]
+    },
+    {
+        "question": "What… is your favourite colour?",
+        "answer": [
+            {"text": "Blue", "correct": false},
+            {"text": "No Yellow", "correct": true},
+            {"text": "Red", "correct": false},
+            {"text": "Pink", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "answer": [
+            {"text": "PooNucleusp", "correct": false},
+            {"text": "Ribosome", "correct": false},
+            {"text": "Endoplasmic reticulum", "correct": false},
+            {"text": "Mitochondria", "correct": true}
+        ]
+    },
+    {
+        "question": "In what year did the first moon landing occur?",
+        "answer": [
+          {"text": "1965", "correct": false},
+          {"text": "1969", "correct": true},
+          {"text": "1975", "correct": false},
+          {"text": "1982", "correct": false}
+        ]
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": [
+          {"text": "Vincent van Gogh", "correct": false},
+          {"text": "Leonardo da Vinci", "correct": true},
+          {"text": "Pablo Picasso", "correct": false},
+          {"text": "Claude Monet", "correct": false}
+        ]
+    }
+    
+]
